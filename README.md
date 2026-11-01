@@ -1,3 +1,3 @@
-# Assignment Prime Check
+# My First Jetty Web Application
 
-![Assignment Screenshot](Screenshot 2026-11-01 11015....png)
+![Project Screenshot](Screenshot%202026-11-01%20110158.png)
